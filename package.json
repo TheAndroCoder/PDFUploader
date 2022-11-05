@@ -2,7 +2,7 @@
   "name": "pdf_uploader",
   "version": "0.1.0",
   "engines": {
-    "node": "6.11.1"
+    "node": "8.19.2"
   },
   "private": true,
   "scripts": {
