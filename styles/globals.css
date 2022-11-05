@@ -1,0 +1,35 @@
+html,body{
+  box-sizing: border-box;
+  margin:0;
+  padding: 0;
+}
+
+main{
+  padding:20px;
+}
+#name{
+  display: block;
+  width:300px;
+  height:30px;
+  outline:none;
+  border:1px solid #ccc;
+  border-radius:10px;
+  margin-bottom: 10px;
+}
+
+button{
+  margin-top:10px;
+  width:150px;
+  height:30px;
+  display: block;
+  border:none;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  color:black;
+  font-weight: bold;
+}
+button:hover{
+  background-color: #ccc;
+  cursor: pointer;
+  color:white;
+}
